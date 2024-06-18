@@ -33,7 +33,7 @@ btn.addEventListener("click", (e) => {
             // Handle the response data
             console.log('Success:', data);
             if (data.exists) {
-                window.alert('signIn successful!');
+                window.alert('signUp successful!');
             }
                 
         })
